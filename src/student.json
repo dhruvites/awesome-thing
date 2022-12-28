@@ -1,0 +1,52 @@
+{
+    "name": "",
+	"profileImageLink": "images/gmax.jpg",
+	"designation": "Software Engineer",
+	"address": "KEB Colony, Chikodi, Belagavi, Karnataka",
+	"email": "guravraksh22@gmail.com",  
+	"phone": "+91-7972532508",
+	"connections": {
+		"github": "https://github.com/PiyushTamboli",
+		"linkedin": "https://www.linkedin.com/in/piyush-tamboli-87aaa88b/",
+		"instagram": "https://www.instagram.com/akhilgurav99/?hl=en"
+	},
+	"skills": {
+		"Hacking": 90,
+		"HTML": 85,
+		"JavaScript": 75,
+		"Gaming": 95,
+		"Football": 85
+	},
+	"keywords": "gitHub Fortnite C C++ MHA` Naruto Linux Android Minecraft Bootstrap Java Roblox Javascript CSS HTML",
+	"languages": {
+		"English": "Professional",
+		"Hindi": "Intermediate",
+		"Marathi": "Native",
+		"German": "Newbie"
+	},
+	"projects": [{
+		"title": "Front End Developer",
+		"organization": "Dream Tech",
+		"since": "February 2020",
+		"to": "",
+		"description": "My hobbies are gaming ,playing foot ball(Left center defence) ,learning to program .I have experience of programing of 2 years.This is my first website. ",
+		"links": {
+			"myAngularCV": "https://piyushtamboli.github.io/dhruvTech/Rakshanda.html",
+			"jQueryRestBuzzerApp": "https://my-buzzer.herokuapp.com/",
+			"bootstrapWebsite": "https://piyushtamboli.github.io/dhruvTech/",
+			"googleSite": "https://sites.google.com/view/dhruvtech",
+			"googleFormApp": "https://goo.gl/forms/AIEWgzPz9oLVIXUw1"
+		}
+	}, {
+		
+	}],
+	"educationDetails": [{
+		"institute": "Gk Gurukul",
+		"since": "March 2018",
+		"to": "",
+		"description": ""
+	}, {
+
+	}]
+
+}
